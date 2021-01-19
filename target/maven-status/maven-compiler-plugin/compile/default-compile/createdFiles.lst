@@ -1,12 +1,10 @@
 cz\educanet\zoo\EmManager.class
-cz\educanet\zoo\CritManager.class
-cz\educanet\zoo\data\AnimalEntity.class
-cz\educanet\zoo\Caretaker.class
-cz\educanet\zoo\data\CaretakerEntity.class
-cz\educanet\zoo\CaretakerManager.class
+cz\educanet\zoo\data\entities\CaretakerEntity.class
+cz\educanet\zoo\data\DAOs\CaretakerDao.class
 cz\educanet\zoo\Caretakers.class
 cz\educanet\zoo\HibernateManager.class
+cz\educanet\zoo\data\entities\AnimalEntity.class
 cz\educanet\zoo\ApiConf.class
-cz\educanet\zoo\DatabaseManager.class
-cz\educanet\zoo\Animal.class
+cz\educanet\zoo\data\DAOs\AnimalDao.class
 cz\educanet\zoo\Animals.class
+cz\educanet\zoo\data\DAOs\Dao.class
