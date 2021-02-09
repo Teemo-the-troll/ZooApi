@@ -1,11 +1,10 @@
-C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\Animal.java
-C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\data\AnimalEntity.java
 C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\Animals.java
 C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\HibernateManager.java
+C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\data\entities\CaretakerEntity.java
 C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\ApiConf.java
-C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\data\CaretakerEntity.java
+C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\data\entities\AnimalEntity.java
 C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\EmManager.java
-C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\CaretakerManager.java
-C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\DatabaseManager.java
-C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\Caretaker.java
+C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\data\DAOs\Dao.java
 C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\Caretakers.java
+C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\data\DAOs\CaretakerDao.java
+C:\Users\note01\IdeaProjects\ZooApi\src\main\java\cz\educanet\zoo\data\DAOs\AnimalDao.java
